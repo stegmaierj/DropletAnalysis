@@ -1,2 +1,2 @@
-# dropletanalysis
-Droplet Analysis Software Authors: Johannes Stegmaier, Maximilian GrÃ¶sche, Christof Niemeyer, Ralf Mikut
+Droplet Analysis Software
+Authors: Johannes Stegmaier, Maximilian Grösche, Christof Niemeyer, Ralf Mikut
